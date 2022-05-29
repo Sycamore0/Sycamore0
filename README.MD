@@ -11,7 +11,6 @@ I'm Sycamore. I write code for better or for worse.
 
 ## Experience
 - Programming Languages
-  - TypeScript
+  - TypeScript/JavaScript
   - C#
-  - Javascript
   - Java
