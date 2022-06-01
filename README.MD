@@ -13,7 +13,7 @@ If u have something interesting,plz share it with me.
 *(Well,it looks like the data are bleak.Isn't it?)
 
 ### Contact Me
-- Discord : Sycamore#7094
+- Discord : Sycamore#7094(Maybe I seldom use it,hum)
 
 ### Programming Languages
  - TypeScript/JavaScript
