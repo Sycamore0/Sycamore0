@@ -10,7 +10,7 @@ If u have something interesting,plz share it with me.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sycamore0&theme=darcula&show_icons=true&count_private=true">
 
-*(Well,it looks like the data are bleak.Isn't it?)
+*(Well,it looks like the data are bleak.Isn't it?)*
 
 ### Contact Me
 - Discord : Sycamore#7094(Maybe I seldom use it,hum)
