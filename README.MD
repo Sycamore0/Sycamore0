@@ -19,7 +19,7 @@ If u have something interesting,plz share it with me.
 >Plan your time in next life and enjoy a healthy life.
 
 ### Contact Me
-- Discord : Sycamore#7094(Maybe I seldom use it,hum)
+- Discord : Syca#7094(Maybe I seldom use it,hum)
 
 ### Programming Languages
  - TypeScript/JavaScript
