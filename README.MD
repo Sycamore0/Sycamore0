@@ -13,10 +13,10 @@ If u have something interesting,plz share it with me.
 *(Well,it looks like the data are bleak.Isn't it?)*
 
 > Resist cracking & private server, refuse reverse engineering.
-Be aware of `MelonLoader` scams, beware of `Leak` dupes. 
-Analyze packets' logic to benefit your brain, 
-send `WindSeed` to jail. 
-Plan your time in next life and enjoy a healthy life.
+>Be aware of MelonLoader scams, beware of Leak dupes. 
+>Analyze packets' logic to benefit your brain, 
+>send WindSeed to jail. 
+>Plan your time in next life and enjoy a healthy life.
 
 ### Contact Me
 - Discord : Sycamore#7094(Maybe I seldom use it,hum)
