@@ -12,6 +12,8 @@ If u have something interesting,plz share it with me.
 
 *(Well,it looks like the data are bleak.Isn't it?)*
 
+something from [Yazawazi](https://github.com/Yazawazi):
+
 > Resist cracking & private server, refuse reverse engineering.
 >Be aware of MelonLoader scams, beware of Leak dupes. 
 >Analyze packets' logic to benefit your brain, 
