@@ -21,7 +21,7 @@ something from [Yazawazi](https://github.com/Yazawazi):
 >Plan your time in next life and enjoy a healthy life.
 
 ### Contact Me
-- Discord : Syca#7094(Maybe I seldom use it,hum)
+- Discord : WindSeedClientNotify#7094(Maybe I seldom use it,hum)
 
 ### Programming Languages
  - TypeScript/JavaScript
